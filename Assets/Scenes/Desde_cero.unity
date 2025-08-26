@@ -2975,7 +2975,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   displayText: {fileID: 1001459970}
-  correctPassword: 12
+  correctPassword: 1234
   pivotPuerta: {fileID: 1511814314}
   velocidadApertura: 90
 --- !u!4 &1839364910
